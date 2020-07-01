@@ -3,9 +3,9 @@ package command
 import (
 	"strings"
 
-	"github.com/jrasell/levant/levant/structs"
-	"github.com/jrasell/levant/logging"
-	"github.com/jrasell/levant/scale"
+	"github.com/verifa/levant/levant/structs"
+	"github.com/verifa/levant/logging"
+	"github.com/verifa/levant/scale"
 )
 
 // ScaleInCommand is the command implementation that allows users to scale a

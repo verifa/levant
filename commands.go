@@ -3,8 +3,8 @@ package main
 import (
 	"os"
 
-	"github.com/jrasell/levant/command"
-	"github.com/jrasell/levant/version"
+	"github.com/verifa/levant/command"
+	"github.com/verifa/levant/version"
 	"github.com/mitchellh/cli"
 )
 

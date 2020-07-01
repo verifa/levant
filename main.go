@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/jrasell/levant/buildtime"
 	"github.com/mitchellh/cli"
+	"github.com/verifa/levant/buildtime"
 )
 
 // These variables are populated by govvv during build time to provide detailed

@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/jrasell/levant/helper"
-	"github.com/jrasell/levant/levant"
-	"github.com/jrasell/levant/levant/structs"
-	"github.com/jrasell/levant/logging"
-	"github.com/jrasell/levant/template"
+	"github.com/verifa/levant/helper"
+	"github.com/verifa/levant/levant"
+	"github.com/verifa/levant/levant/structs"
+	"github.com/verifa/levant/logging"
+	"github.com/verifa/levant/template"
 )
 
 // PlanCommand is the command implementation that allows users to plan a

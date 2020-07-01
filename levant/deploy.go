@@ -7,10 +7,10 @@ import (
 	"time"
 
 	nomad "github.com/hashicorp/nomad/api"
-	"github.com/jrasell/levant/client"
-	"github.com/jrasell/levant/levant/structs"
 	"github.com/pkg/errors"
 	"github.com/rs/zerolog/log"
+	"github.com/verifa/levant/client"
+	"github.com/verifa/levant/levant/structs"
 )
 
 const (

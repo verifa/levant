@@ -2,8 +2,8 @@ package levant
 
 import (
 	nomad "github.com/hashicorp/nomad/api"
-	"github.com/jrasell/levant/client"
 	"github.com/rs/zerolog/log"
+	"github.com/verifa/levant/client"
 )
 
 // TriggerDispatch provides the main entry point into a Levant dispatch and

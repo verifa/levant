@@ -1,8 +1,9 @@
-module github.com/jrasell/levant
+module github.com/verifa/levant
 
 go 1.13
 
 require (
+	github.com/ahmetb/govvv v0.3.0 // indirect
 	github.com/apparentlymart/go-cidr v0.0.0-20170616213631-2bd8b58cf427 // indirect
 	github.com/armon/go-radix v0.0.0-20170727155443-1fca145dffbc // indirect
 	github.com/aws/aws-sdk-go v1.10.46 // indirect

@@ -7,8 +7,8 @@ import (
 	"strings"
 
 	flaghelper "github.com/hashicorp/nomad/helper/flag-helpers"
-	"github.com/jrasell/levant/levant"
-	"github.com/jrasell/levant/logging"
+	"github.com/verifa/levant/levant"
+	"github.com/verifa/levant/logging"
 )
 
 // DispatchCommand is the command implementation that allows users to

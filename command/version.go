@@ -3,8 +3,8 @@ package command
 import (
 	"fmt"
 
-	"github.com/jrasell/levant/buildtime"
 	"github.com/mitchellh/cli"
+	"github.com/verifa/levant/buildtime"
 )
 
 // VersionCommand is a Command implementation that prints the version.

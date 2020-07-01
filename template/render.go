@@ -7,9 +7,9 @@ import (
 	"io/ioutil"
 	"path"
 
-	"github.com/jrasell/levant/client"
-	"github.com/jrasell/levant/helper"
 	"github.com/rs/zerolog/log"
+	"github.com/verifa/levant/client"
+	"github.com/verifa/levant/helper"
 	yaml "gopkg.in/yaml.v2"
 
 	nomad "github.com/hashicorp/nomad/api"

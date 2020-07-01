@@ -3,9 +3,9 @@ package acctest
 import (
 	"fmt"
 
-	"github.com/jrasell/levant/levant"
-	"github.com/jrasell/levant/levant/structs"
-	"github.com/jrasell/levant/template"
+	"github.com/verifa/levant/levant"
+	"github.com/verifa/levant/levant/structs"
+	"github.com/verifa/levant/template"
 )
 
 // DeployTestStepRunner implements TestStepRunner to execute a levant deployment

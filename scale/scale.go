@@ -2,10 +2,10 @@ package scale
 
 import (
 	nomad "github.com/hashicorp/nomad/api"
-	"github.com/jrasell/levant/client"
-	"github.com/jrasell/levant/levant"
-	"github.com/jrasell/levant/levant/structs"
 	"github.com/rs/zerolog/log"
+	"github.com/verifa/levant/client"
+	"github.com/verifa/levant/levant"
+	"github.com/verifa/levant/levant/structs"
 )
 
 // Config is the set of config structs required to run a Levant scale.
